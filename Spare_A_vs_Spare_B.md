@@ -3,8 +3,9 @@
 
 ## 1. Introduction: A Divided Vision
 Austin Osman Spare (1886–1956) was a visionary British artist and occultist. His legacy has been shaped largely through the writings of Kenneth Grant (1924–2011), a British magician and author who positioned Spare as a prophet of cosmic sorcery and the so-called Zos-Kia Cultus.
-
-As a translator and close reader of Spare’s original texts, I began to notice a dissonance—two irreconcilable layers in the body of his work. These layers, which I call “Spare A” and “Spare B,” seem to reflect two distinct philosophies that do not blend. The first emerges from Spare’s early writings and artwork: personal, anti-authoritarian, and focused on art, body, and inner experience. The second, by contrast, appears shaped by external editorial hands, notably Kenneth Grant, and introduces systems, cult...
+As a translator and close reader of Spare’s original texts, I began to notice a dissonance—two irreconcilable layers in the body of his work. These layers, which I call “Spare A” and “Spare B,” seem to reflect two distinct philosophies that do not blend.
+The first emerges from Spare’s early writings and artwork: personal, anti-authoritarian, and focused on art, body, and inner experience.
+The second, by contrast, appears shaped by external editorial hands—notably Kenneth Grant—and introduces systems, cultic vocabulary, and religious overtones that feel foreign to Spare’s original voice.
 
 ## 2. A Quick Table: Spare A vs. Spare B
 
