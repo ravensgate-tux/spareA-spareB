@@ -40,9 +40,10 @@ This distinction is not made lightly. It is grounded in:
 - Contrastive reading of Kenneth Grant’s Typhonian works
 - Key secondary sources such as _Phil Baker’s_ biography, which provides a critical and well-documented account of Spare’s life and work
 
-## 📥 PDF Download
+## 📄 Read the Full Text
 
 You can read the full zine here:  
+
 ➡️ [`Spare_A_vs_Spare_B.md`](./Spare_A_vs_Spare_B.md)
 
 ## 📖 Citation
