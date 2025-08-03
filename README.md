@@ -1,7 +1,7 @@
 # Spare A / Spare B: A Working Hypothesis
 
 _A research-based zine exploring two conflicting layers in the legacy of Austin Osman Spare._
-by Le Sorcier Inconnu
+<br>by Le Sorcier Inconnu
 
 ## 📘 Overview
 
