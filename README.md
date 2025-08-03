@@ -49,7 +49,7 @@ You can read the full zine here:
 If you reference or quote this model in your own writing, please cite as:
 
 > [Your Name], _Spare A / Spare B: A Working Hypothesis_, 2025.  
-> GitHub: [https://github.com/yourusername/spare-a-b](https://github.com/yourusername/spare-a-b)
+> GitHub: [https://github.com/yourusername/spareA-spareB](ttps://github.com/ravensgate-tux/spareA-spareB)
 
 ## 🪪 License
 
