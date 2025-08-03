@@ -42,7 +42,7 @@ This distinction is not made lightly. It is grounded in:
 ## 📥 PDF Download
 
 You can read the full zine here:  
-➡️ [`Spare_A_vs_Spare_B.pdf`](./Spare_A_vs_Spare_B.md)
+➡️ [`Spare_A_vs_Spare_B.md`](./Spare_A_vs_Spare_B.md)
 
 ## 📖 Citation
 
