@@ -53,7 +53,7 @@ I do not claim to have resolved this division. I offer this Spare A / Spare B mo
 - ——. *Zos Speaks!* (ed. Kenneth Grant & Steffi Grant)
 - Grant, Kenneth. *Images and Oracles of Austin Osman Spare*
 - ——. *The Magical Revival*, *Outside the Circles of Time*
-- Ala-Hakula, Riikka. *The Magical System of Spare’s Sigils*
+- [Ala-Hakula, Riikka. *The Magical System of Spare’s Sigils*](https://brill.com/display/book/edcoll/9781848884397/BP000006.xml)
 
 ### Ambiguous / hybrid
 - *Collected Works* editions with unclear editorial provenance
