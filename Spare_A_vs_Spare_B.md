@@ -8,8 +8,6 @@ As a translator and close reader of Spare’s original texts, I began to notice 
 The first emerges from Spare’s early writings and artwork: personal, anti-authoritarian, and focused on art, body, and inner experience.
 The second, by contrast, appears shaped by external editorial hands—notably Kenneth Grant—and introduces systems, cultic vocabulary, and religious overtones that feel foreign to Spare’s original voice.
 
-## 2. A Quick Table: Spare A vs. Spare B
-
 | Work / Element                                               | Classification | Notes                                                                 | Year        |
 |--------------------------------------------------------------|----------------|-----------------------------------------------------------------------|-------------|
 | *The Book of Pleasure* (1913, core text)                     | Spare A        | Introspective, anti-system                                            | 1913        |
@@ -21,6 +19,7 @@ The second, by contrast, appears shaped by external editorial hands—notably Ke
 | Artworks (pre-1950s)                                         | Spare A        | No clear religious motifs; deeply personal and symbolic               | 1900s–40s   |
 | Artworks (1950s, 2–3 pieces)                                 | Spare B        | Egyptian motifs, stylized sigils                                      | 1950s       |
 | Paterson myth (Salem witch line)                             | Spare B        | Only appears in Grant’s writings                                      | –           |
+| Visionary figure: “Black Eagle”                              | Spare B        | Alleged visitor in *Zos Speaks!*, not corroborated elsewhere          | Posthumous? |
 
 ## 3. What We See in Spare A
 The Spare A material reveals a radical individualist who rejected religious frameworks and resisted systematization. He believed in the unconscious, bodily will, and personal symbolism. His magic was artistic and internal, not cosmic or hierarchical. There are no gods, demons, or cults—only a man speaking to his inmost self through line, symbol, and trance. His artwork, apart from a few late exceptions, supports this: it is private, flowing, and distinctly non-mythic.
